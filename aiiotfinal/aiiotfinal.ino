@@ -39,10 +39,10 @@ bool pirState = false;
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid     = "Phspd";   
-const char* password = "oneplusce";
-const char* token = "6519653271:AAEKSOwxbVQMHZocEMrUQUKS3tDpJQilX7o"; // Replace with your Telegram bot token
-const String chat_id = "6828841559"; // Replace with your chat ID
+const char* ssid     = "";   
+const char* password = "";
+const char* token = ""; // Replace with your Telegram bot token
+const String chat_id = ""; // Replace with your chat ID
 WiFiClientSecure secured_client;
 UniversalTelegramBot bot(token, secured_client);
 
