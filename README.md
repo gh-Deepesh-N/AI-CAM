@@ -31,5 +31,7 @@ AI Wildlife Monitoring is an AI-powered surveillance system using **ESP32-CAM, P
 - **Automated Alert Notifications**
 
 
+![image](https://github.com/user-attachments/assets/f02b2b40-144b-4b67-85a2-1a691470ce0f)
+![image](https://github.com/user-attachments/assets/dbdcb8b3-80a5-4aa6-8fc8-62a4929bf15f)
 
 
